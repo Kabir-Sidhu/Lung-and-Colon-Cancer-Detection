@@ -7,7 +7,7 @@ This project is a **Lung & Colon Cancer Detection Tool** built using **Machine L
 ![Step 1: Upload Image](examples/image1.png)
 ![Step 2: Get Results](examples/image2.png)
 
-1. **Upload an image** of a lung or colon scan (e.g., CT scan, biopsy image).
+1. **Upload an image** of a lung or colon scan.
 2. **The model classifies** the image into one of three categories:
    - **Lung Adenocarcinoma**: A type of lung cancer that starts in the glandular cells of the lung tissue.
    - **Colon Adenocarcinoma**: A cancer that originates in the lining of the colon or rectum.
